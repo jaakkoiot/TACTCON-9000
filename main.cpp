@@ -3,7 +3,7 @@
 
 #define PROG_NAME "TACTCON9000"
 
-/*I wanted the main program to contain only the bare minimum of code, the main menu structure of the program and initial savefile check. All of the function 
+/*Main program contains only the bare minimum of code, the main menu structure of the program and initial savefile check. All of the function 
 calls are tied to the Addressbook-class, which the main program holds an object of. During the later parts of the programming the Addressbook-class grew to 
 slightly uncomfortable size, and going forward I would probably try separating the file saving/syncing/management to a different class like the InputParser*/
 int main() {
