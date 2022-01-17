@@ -1,4 +1,4 @@
-# “TACTCON9000” - Contact information & address manager
+# TACTCON 9000 - Contact information & address manager
 
 TACTCON9000 helps users manage their contacts on the personal computer
 with a user-friendly interface. Contacts hold information about the name,
