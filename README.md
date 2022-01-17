@@ -22,5 +22,5 @@ files and all.
   directory of the source code).
   
 - Save file contains contacts in rows, with semicolons separating data fields.
-- 
+
 - The program uses overloaded streaming operators << | >> for both the Addressbook and Contact classes. They allow for streaming
