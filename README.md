@@ -1,6 +1,6 @@
-# TACTCON 9000 - Contact information & address manager
+# Contact information & address manager, "TACTCON-9000"
 
-TACTCON9000 helps users manage their contacts on the personal computer
+TACTCON9000 is a C++ application that helps users manage their contacts on the personal computer
 with a user-friendly interface. Contacts hold information about the name,
 email address, city of residence, phone number and kin status in relation to
 the user. This information is stored in a save file located at the directory of the
